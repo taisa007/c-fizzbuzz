@@ -1,7 +1,6 @@
 //
 // Created by SatoMasaki on 9/5/15 AD.
 //
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
